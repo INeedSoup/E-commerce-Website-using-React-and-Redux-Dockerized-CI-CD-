@@ -13,7 +13,8 @@ This repository contains a React-Redux frontend for a simple e-commerce website.
 
 ## Architecture
 
-<img width="281" height="681" alt="image" src="https://github.com/user-attachments/assets/9889c117-b6ee-47cd-8ecf-ba8e4fe67ed2" />
+<img width="281" height="681" alt="image (1)" src="https://github.com/user-attachments/assets/fabbfc3c-d565-47f0-8439-dc6d97fe44f4" />
+
 
 ## Prerequisites
 
@@ -22,12 +23,6 @@ This repository contains a React-Redux frontend for a simple e-commerce website.
 * Jenkins (installed on your Docker host)
 * Trivy CLI (on Jenkins host)
 * Docker Hub account
-
-## Video Tutorial
-
-Detailed Video: [https://grooveinnovations-my.sharepoint.com/:v:/g/personal/sairanjan_subudhi_grooveinnovations_ai/Ef4x4WuS3_pCqkitoIC7daUBvObeHv7aB9mIqb4Ew9xZLg?e=3esFbc](https://grooveinnovations.sharepoint.com/:v:/s/Internship/EbFeA6OGA0BOhSO8mrNxYKQBdWoqFJcYZeBZOC03i4VFjg?e=XnmGDN)
-
-Demo Video: [https://grooveinnovations-my.sharepoint.com/:v:/g/personal/sairanjan_subudhi_grooveinnovations_ai/Ech0R6hb7FVBgPqKIrSdXpkBexANAuzm4kmuunbgGa-zQA?e=KK8meC](https://grooveinnovations.sharepoint.com/:v:/s/Internship/Eey-lAwxxaFKqyFwdgIYTE8BqrYa3MjKHAh-06aeGtGszg?e=jS3kWC)
 
 ## Getting Started
 
@@ -70,10 +65,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 <img width="1258" alt="Screenshot 2023-08-13 at 11 05 22 PM" src="https://github.com/khushi2706/E-commerce-website-using-React-Redux/assets/67452985/e29df1a4-15c5-4bc2-889b-1b401a00fcda">
 <img width="1276" alt="Screenshot 2023-08-13 at 11 05 49 PM" src="https://github.com/khushi2706/E-commerce-website-using-React-Redux/assets/67452985/081dc93b-f17b-4d12-a625-37ab05ef16f9">
-
-## Contributions
-
-* **Aman Pawar**: Containerized the Application React-Redux E-commerce Website using Docker
-* **Sairanjan Subudhi**: Configured Jenkins Pipeline, Created Presentation Video
-* **Om Vats**: Configured the Prometheus Part of the Application Authored comprehensive documentation (Word document & PPT)
 
